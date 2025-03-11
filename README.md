@@ -1,4 +1,4 @@
-[Link](https://whatsaochatanalyzer-1.onrender.com)
+[DEMO](https://whatsaochatanalyzer-1.onrender.com)
 
 
 **Movie Recommendation System**
