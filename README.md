@@ -1,4 +1,4 @@
-[DEMO](https://whatsaochatanalyzer-1.onrender.com)
+[DEMO](https://whatsaochatanalyzer-qur5bmlsjkvjpqgwy4rm8c.streamlit.app/)
 
 
 **Movie Recommendation System**
@@ -38,4 +38,5 @@ Project Structure
 ├── requirements.txt        # Dependencies required for the project 
 
 └── stop_hinglish.txt       # Stopword list for Hinglish text processing  
+
 
